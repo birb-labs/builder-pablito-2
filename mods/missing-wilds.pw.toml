@@ -1,0 +1,13 @@
+name = "Missing Wilds"
+filename = "MissingWilds-neoforge-1.4.0+beta+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nw0MStSd/versions/ArlxkfJ3/MissingWilds-neoforge-1.4.0%2Bbeta%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "19d5ea98d370dbe6c772970826b6f77793d66d7a2df9166f2f887bd122aed4acee12ed126f17ef56a7aa4534dd61d3349a179ac6031a409bfa0e7198e3d40517"
+
+[update]
+[update.modrinth]
+mod-id = "Nw0MStSd"
+version = "ArlxkfJ3"

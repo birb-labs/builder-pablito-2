@@ -1,0 +1,13 @@
+name = "MCA Reborn"
+filename = "mca-neoforge-7.7.7+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1W98a849/versions/uZa9ZX7n/mca-neoforge-7.7.7%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "2e5bb3195a6c233658887203e72ab70480e8f9d9b435e0eebfcc87a4ac5661b28b27a4005cca4a37974d116d00df5ad74556dee9de05c53cca2ecddf822c7b1a"
+
+[update]
+[update.modrinth]
+mod-id = "1W98a849"
+version = "uZa9ZX7n"

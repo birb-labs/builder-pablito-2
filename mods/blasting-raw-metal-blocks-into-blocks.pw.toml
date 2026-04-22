@@ -1,0 +1,12 @@
+name = "Blasting Raw Metal Blocks"
+side = "both"
+filename = "blastingraw-1.21.1-neoforge-3.1.jar"
+
+[update.modrinth]
+mod-id = "URkDEaW4"
+version = "JqOUs4sJ"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/URkDEaW4/versions/JqOUs4sJ/blastingraw-1.21.1-neoforge-3.1.jar"
+hash = "f994b035bd601c30c97fb9b23096723e2a76f362d4a48fd1e408735b9bc089e09296eaa27a565405c9dd796b89c120732baecd9d7594025fe35dbdab98e74090"

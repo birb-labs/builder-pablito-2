@@ -1,0 +1,13 @@
+name = "Serene Shrubbery"
+filename = "SereneShrubbery-NeoForge-1.21.1-v2.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8nNCA6Vy/versions/a9Ola3FR/SereneShrubbery-NeoForge-1.21.1-v2.3.2.jar"
+hash-format = "sha512"
+hash = "ee0d376c5faecf0d3faef78a57a346c0b9d2da2f0a39ecd3e27ba7eeba17cd0cfb10a6cd372c052f4d8472539bb05019c1ad0def2dda871dda1c402827e5b91f"
+
+[update]
+[update.modrinth]
+mod-id = "8nNCA6Vy"
+version = "a9Ola3FR"

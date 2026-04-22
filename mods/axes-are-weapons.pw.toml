@@ -1,0 +1,12 @@
+name = "Axes Are Weapons"
+side = "both"
+filename = "AxesAreWeapons-1.9.2-neoforge-1.21.jar"
+
+[update.modrinth]
+mod-id = "1jvt7RTc"
+version = "UVPAidip"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/1jvt7RTc/versions/UVPAidip/AxesAreWeapons-1.9.2-neoforge-1.21.jar"
+hash = "33631ec92aa134e59e14d53443dbf72e6acc02943f6bdd1364ac7d8c0abbbddf39e0fb351fc8718ccbea07751dfb5857b861ab99391c5eb397b79af1cd114692"

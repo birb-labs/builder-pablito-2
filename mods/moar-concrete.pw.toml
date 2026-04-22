@@ -1,0 +1,13 @@
+name = "Moar Concrete"
+filename = "moar-concrete-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lXDzrLAm/versions/hG50ZysI/moar-concrete-1.3.1.jar"
+hash-format = "sha512"
+hash = "9edf8775a2c3ceb80d74bee9a2a1426114585cbdba66e16efd874e8c1b5b8da51f4f5aa9f1876a56b22ae9d51ddb0de956454e753e7d12e36c357b5877a6ff46"
+
+[update]
+[update.modrinth]
+mod-id = "lXDzrLAm"
+version = "hG50ZysI"

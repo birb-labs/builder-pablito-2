@@ -1,0 +1,13 @@
+name = "Tutorial Suppressor"
+filename = "tutorialsuppressor-0.1.0+1.20.6-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SSyS4Ayv/versions/gExehcKM/tutorialsuppressor-0.1.0%2B1.20.6-neoforge.jar"
+hash-format = "sha512"
+hash = "698859a95283ef73696f60c880321dcd111032f327f8bd123b4f6e884662bccab5aa30b35ec54e29e1c2a90682beecb47d226471d73abddd94385a2bc65a7af2"
+
+[update]
+[update.modrinth]
+mod-id = "SSyS4Ayv"
+version = "gExehcKM"

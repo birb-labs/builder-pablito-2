@@ -1,0 +1,12 @@
+name = "Blasting Netherrack into Nether Bricks"
+side = "both"
+filename = "netherrackblasting-1.21.1-0.1-neoforge.jar"
+
+[update.modrinth]
+mod-id = "Gc8Csran"
+version = "Rf8jYC9N"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/Gc8Csran/versions/Rf8jYC9N/netherrackblasting-1.21.1-0.1-neoforge.jar"
+hash = "091d239a4dccbfc877cec283006d99269b13277f725af0aaa44a77106cef82b49cf75ad512ce01fc64cd6575964b7a16575949cb3dd644d23a79011457325856"

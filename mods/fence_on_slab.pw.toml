@@ -1,0 +1,13 @@
+name = "Fence On Slab!"
+filename = "fence_on_slab-neoforge-1.21-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H2ftVWLF/versions/rayYTMwK/fence_on_slab-neoforge-1.21-1.0.0.jar"
+hash-format = "sha512"
+hash = "7cf78996d075069819d1310981d6987effcf749ea75cdb1ae6ab368cb1adb596a42e7f7c48be317e150e9f9a0793e321e063da8d0da70620cc18a2c7a4fa1d03"
+
+[update]
+[update.modrinth]
+mod-id = "H2ftVWLF"
+version = "rayYTMwK"

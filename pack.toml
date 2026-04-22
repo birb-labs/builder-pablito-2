@@ -1,0 +1,13 @@
+name = "Builder Pablito 2"
+author = "P4tit0"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "48080da27ab291f37dab7fae0cdef56ec47dd3be897c4165f535c0c686422083"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"

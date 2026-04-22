@@ -1,0 +1,12 @@
+name = "Let Me Despawn"
+side = "both"
+filename = "letmedespawn-1.21.x-neoforge-1.5.0.jar"
+
+[update.modrinth]
+mod-id = "vE2FN5qn"
+version = "fgcMDg9B"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/vE2FN5qn/versions/fgcMDg9B/letmedespawn-1.21.x-neoforge-1.5.0.jar"
+hash = "e6c892bb621a9382728c6f5735922736283cd54ec4f5a5d4d7d0745dedbe39851e21a69abcdf7af783fbacf8c700789b6ef9278dc09782ad1cd63ec004bc7a35"

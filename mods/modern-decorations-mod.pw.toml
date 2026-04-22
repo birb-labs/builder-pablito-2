@@ -1,0 +1,13 @@
+name = "Modern Decorations Mod"
+filename = "mdm-26.4.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TmUXSYKk/versions/FuiHPPsl/mdm-26.4.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "2b3f401b85d4c05dcace3a9648a4f92966ce2123001715a5c01f89e8cf4f6fe5bfe0a39f2513ad07139a08d278bd2cfd74ccb96cebf4da393e95b0052e12baa4"
+
+[update]
+[update.modrinth]
+mod-id = "TmUXSYKk"
+version = "FuiHPPsl"

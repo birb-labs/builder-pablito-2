@@ -1,0 +1,13 @@
+name = "NBT Copy"
+filename = "NBTcopy-NEOFORGE-1.21-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XIIGRXeq/versions/PXFlvoZ2/NBTcopy-NEOFORGE-1.21-1.0.4.jar"
+hash-format = "sha512"
+hash = "8995401e8feb0c950207efd4d6a072503c1996f2dbb8472ae26460bfe6496d6f018bcdd39093284a73d21e804ec490f2b0f2fc40095d4129cb1c405c9fadb76b"
+
+[update]
+[update.modrinth]
+mod-id = "XIIGRXeq"
+version = "PXFlvoZ2"

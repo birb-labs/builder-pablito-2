@@ -1,0 +1,13 @@
+name = "Underlay"
+filename = "underlay-1.0.1-neoforge-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iltKD9qU/versions/iweVhkXv/underlay-1.0.1-neoforge-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "2c67ff46ef56403d707c6a4a9c5fabcf2a0f470cf5d144bdcb74ac16577402de204665edd3cd0c00d256569d5d6ae02f1c88849e41a44e1687c6e634355a3796"
+
+[update]
+[update.modrinth]
+mod-id = "iltKD9qU"
+version = "iweVhkXv"

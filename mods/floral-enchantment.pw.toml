@@ -1,0 +1,13 @@
+name = "Floral Enchantment"
+filename = "Floral Enchantment-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Oprx59lK/versions/ZhEyy8ML/Floral%20Enchantment-neoforge-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "c6f178e36785d880551960c30f2bf68f81026ddb75e327941ec199470056f8f40219108f0a7fb4cb14563c8714ab45f961a911c796f8a62fcecdbab1a7283745"
+
+[update]
+[update.modrinth]
+mod-id = "Oprx59lK"
+version = "ZhEyy8ML"

@@ -1,0 +1,13 @@
+name = "Unusual Furniture"
+filename = "unusual_furniture-1.1.2c-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MZFE37e3/versions/kPVEWQ2Z/unusual_furniture-1.1.2c-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "8cccd3e97ad2ee6f40ca3dbc25ab914c9e6ca0164682392cb232a4434d3ec1a5b1d28df262dc8c47209144415bc5b41220da43ea7e1183508746bba8165e42a2"
+
+[update]
+[update.modrinth]
+mod-id = "MZFE37e3"
+version = "kPVEWQ2Z"

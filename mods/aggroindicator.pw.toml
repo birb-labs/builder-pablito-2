@@ -1,0 +1,13 @@
+name = "Aggro Indicator"
+filename = "aggroindicator-neoforge-1.21.1-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RpUNthCL/versions/EHAMoTTT/aggroindicator-neoforge-1.21.1-2.0.4.jar"
+hash-format = "sha512"
+hash = "0bf04d003d134fddf228c4e8796e555391936c9ee639e08391baa8e0d5c71ca0656ae21e755603d2c1c507da778198648b46b6d76f8a91cfded785af63070ca1"
+
+[update]
+[update.modrinth]
+mod-id = "RpUNthCL"
+version = "EHAMoTTT"

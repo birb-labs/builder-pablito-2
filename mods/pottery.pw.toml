@@ -1,0 +1,13 @@
+name = "Pottery"
+filename = "pottery-1.0.2a-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iiuzmkWd/versions/HGEThaoQ/pottery-1.0.2a-neoforge-mc1.21.jar"
+hash-format = "sha512"
+hash = "5d838f97a1ae63b4d2a8645a0c49beaea17d3f3cd4866cd0e81eaf140519cf6ce82ef8b311b7067ee086bcb7fe86876be5b152f4c715341dd8999190465b84be"
+
+[update]
+[update.modrinth]
+mod-id = "iiuzmkWd"
+version = "HGEThaoQ"

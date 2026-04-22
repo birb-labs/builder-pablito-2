@@ -1,0 +1,13 @@
+name = "Player Armor Stands"
+filename = "pas-0.8.2-NFG-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PxcK9msP/versions/owePslaK/pas-0.8.2-NFG-1.21.1.jar"
+hash-format = "sha512"
+hash = "d5fefeb7cece62d7232c4a19eaa68e36942f204f393b84fb56d3e8e35123acb7f28be89f9d9458d79201adc866a26d2951dc9efd8f4cb5190069833bf5e08b70"
+
+[update]
+[update.modrinth]
+mod-id = "PxcK9msP"
+version = "owePslaK"

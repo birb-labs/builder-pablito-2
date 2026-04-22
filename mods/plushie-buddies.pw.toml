@@ -1,0 +1,13 @@
+name = "Plushie Buddies"
+filename = "plushie_buddies-1.0.0-neofroge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5hoSWfrw/versions/K2D8ew4i/plushie_buddies-1.0.0-neofroge-1.21.1.jar"
+hash-format = "sha512"
+hash = "6a5d654ee8483937e8a1db9f2bfa988847fcfe5ff0cd00c9ca69dc90757cbefd91fa8ccf9f468f2749bea73c7678f2e6204e3ea89f629d687202d39871797bc5"
+
+[update]
+[update.modrinth]
+mod-id = "5hoSWfrw"
+version = "K2D8ew4i"

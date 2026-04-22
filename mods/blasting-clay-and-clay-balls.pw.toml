@@ -1,0 +1,12 @@
+name = "Smelt Clay & Terracota in Blast Furnaces"
+side = "both"
+filename = "blastingclay-1.21.1-neoforge-1.1.jar"
+
+[update.modrinth]
+mod-id = "Vfhol2da"
+version = "d58svxWj"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/Vfhol2da/versions/d58svxWj/blastingclay-1.21.1-neoforge-1.1.jar"
+hash = "6c0d644f2dd0ac9057166105359c36c7878ce2bdf94b392e0f7ad7c09264b28adb458e518a055df3adbf7a07cc1332259da7d91ec79b5da744e7cc7479213507"

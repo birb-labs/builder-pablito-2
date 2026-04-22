@@ -1,0 +1,13 @@
+name = "Cauldron Concrete Powder"
+filename = "cauldron-concrete-powder-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sKa9BOA6/versions/cXIjy5jk/cauldron-concrete-powder-1.1.0.jar"
+hash-format = "sha512"
+hash = "12e134b5a7a68d9a3e4ef282b636a98c8ee8749b5b29f3b874313cb877fe21b5812dc9d9fc1f74fd62436b38e0b819ff3e81b950c110c8b8b6e0e4007af85275"
+
+[update]
+[update.modrinth]
+mod-id = "sKa9BOA6"
+version = "cXIjy5jk"

@@ -1,0 +1,13 @@
+name = "Enchanted Vertical Slabs"
+filename = "enchanted-vertical-slabs-2.3.2-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TG1cHkRf/versions/g9Xtkxuf/enchanted-vertical-slabs-2.3.2-neoforge-mc1.21.jar"
+hash-format = "sha512"
+hash = "a5dd0fd792edca52ecb41cbc6ec669faf30bf2100a22729c1d84d88e520498079c8d37c730f68d4548fbada3cb628df07f0ffb239b8cf9d2736be641fa09f8cb"
+
+[update]
+[update.modrinth]
+mod-id = "TG1cHkRf"
+version = "g9Xtkxuf"

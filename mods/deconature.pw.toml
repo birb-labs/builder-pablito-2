@@ -1,0 +1,13 @@
+name = "DecoNature"
+filename = "decocraft_nature-1.0.7-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KGIl2E4k/versions/gHdfTnBT/decocraft_nature-1.0.7-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "8466c311a6f6c4f11496534f768cbe4fa400095603ccb64028ce2ac86a7a1ec4db1ba13fd2359b8cbc0379531273cd67c23a41ea7749c3b49f56130a380bc63d"
+
+[update]
+[update.modrinth]
+mod-id = "KGIl2E4k"
+version = "gHdfTnBT"

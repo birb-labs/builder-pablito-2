@@ -1,0 +1,13 @@
+name = "The Splash Milk"
+filename = "TheSplashMilk-neoforge-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ELrdP6OH/versions/a1zk4rj9/TheSplashMilk-neoforge-3.0.1.jar"
+hash-format = "sha512"
+hash = "fa1fd8b1589af059712aad104c42b30123e85de2042443ada3375f1033688a28ff172df6819ee87e72a3686c78290b96175b42bb1c43fd70d5c21674a7c1b4c8"
+
+[update]
+[update.modrinth]
+mod-id = "ELrdP6OH"
+version = "a1zk4rj9"

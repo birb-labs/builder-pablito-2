@@ -1,0 +1,13 @@
+name = "Kaleidoscope End"
+filename = "kaleidoscope_end-1.0.2-neoforge+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8GKUHBM6/versions/PmuyThGs/kaleidoscope_end-1.0.2-neoforge%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "5f4fef18c31034d1800d657021aac1aa2da265ec52a6bd4a522d829707b5e5ad6aa87ee0c0385a68dddea90559c322bd30b8790f0ad74a472b71dcf11630c642"
+
+[update]
+[update.modrinth]
+mod-id = "8GKUHBM6"
+version = "PmuyThGs"

@@ -1,0 +1,13 @@
+name = "Fairy Lights"
+filename = "fairylights-8.0.9-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BC84wYkA/versions/LmvPvFeS/fairylights-8.0.9-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "e1b0faee2d850224574f6de77066909f3693cc381cd2fe346d0c9fc525c55ea6f9b6f393c42cf3241586c10eea930e7a5e134a3917e7e9d483c550c9aa8d64b8"
+
+[update]
+[update.modrinth]
+mod-id = "BC84wYkA"
+version = "LmvPvFeS"

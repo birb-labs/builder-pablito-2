@@ -1,0 +1,13 @@
+name = "Decorative Storage"
+filename = "deco_storage-4.0303-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DLpaTTzJ/versions/H7baGuwk/deco_storage-4.0303-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "1350c26cd1235363a5f3a33b5b948393dd8f220dbdaa5b276f22554b5e847b2a5ce6111e348b91a0a52b7bc76173fb94f1059f4c1d9bc2485b1563789cecc80a"
+
+[update]
+[update.modrinth]
+mod-id = "DLpaTTzJ"
+version = "H7baGuwk"

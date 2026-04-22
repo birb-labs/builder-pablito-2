@@ -1,0 +1,13 @@
+name = "Furnies"
+filename = "Furnies-neoforge-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BEIW1eno/versions/sJDxU0YW/Furnies-neoforge-1.0.jar"
+hash-format = "sha512"
+hash = "5818cf878962e008baa51ddb9803c2b70452ce747b67a6f563119a899849406ed91ed78f61c024c898e39ff792ae5399d0e6645bfe2000501d2bbe1bbc443433"
+
+[update]
+[update.modrinth]
+mod-id = "BEIW1eno"
+version = "sJDxU0YW"

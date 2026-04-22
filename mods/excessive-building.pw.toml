@@ -1,0 +1,13 @@
+name = "Excessive Building"
+filename = "neoforge-excessive_building-1.21.1-4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2vsx0HYf/versions/Z6nG4rGU/neoforge-excessive_building-1.21.1-4.0.1.jar"
+hash-format = "sha512"
+hash = "cebd7afec70d590d6aa69e3480c59308ac2151bf773d16eee15208e2e48fa402c660756ec939f6c736b8240d485863283fd583864b869119f5346123ce9cb0b9"
+
+[update]
+[update.modrinth]
+mod-id = "2vsx0HYf"
+version = "Z6nG4rGU"

@@ -1,0 +1,13 @@
+name = "Some More Blocks"
+filename = "SomeMoreBlocks@neoforge-1.21-1.1.5-HF.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R1LxuhQe/versions/VgczZRP7/SomeMoreBlocks%40neoforge-1.21-1.1.5-HF.jar"
+hash-format = "sha512"
+hash = "6b0b4516a6c5c97bd5bd654758f1e1a728b2b37130478363a88dbec308e13502beb671e55d0fe9bdc29a75f9d9aefd2329db63cd50e6769d72bf4f188198f28f"
+
+[update]
+[update.modrinth]
+mod-id = "R1LxuhQe"
+version = "VgczZRP7"

@@ -1,0 +1,13 @@
+name = "Mo Glass"
+filename = "Mo-Glass-1.10.1-MC1.21-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SI5mk2b6/versions/gTM9onBt/Mo-Glass-1.10.1-MC1.21-NeoForge.jar"
+hash-format = "sha512"
+hash = "55ffac029ee15653f6ad86637aa561033a4770371e0dc0bece5ee2f6dde104a439ef0c0e516afa2c15f21e6e68359f043f09ae2b27e51e5e24f0d790fd2486ab"
+
+[update]
+[update.modrinth]
+mod-id = "SI5mk2b6"
+version = "gTM9onBt"

@@ -1,0 +1,12 @@
+name = "Silkier Touch"
+side = "both"
+filename = "silkiertouch-1.21.1-1.0.jar"
+
+[update.modrinth]
+mod-id = "dUaXeoyM"
+version = "TngkMccX"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/dUaXeoyM/versions/TngkMccX/silkiertouch-1.21.1-1.0.jar"
+hash = "7aacad10ee0ea27d6c38c3c2feeb09393ae1317804da6d24ecaa0b3a6fdec019a44762c922c0c2adf54fc2cfe8a5b71825955662592195969752bbabf650153b"
