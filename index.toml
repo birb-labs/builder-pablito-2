@@ -698,6 +698,11 @@ hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "a503ac4887c60672c49d0cade6326e17b9b6340549e33772918918312f286d56"
+metafile = true
+
+[[files]]
 file = "mods/furnies.pw.toml"
 hash = "48e3cdda0de8d242979227329cc146a23e5f6ed79db02b4b1301f090a0acc7c5"
 metafile = true
