@@ -1,6 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterf3.toml"
+hash = "088331abc2452b3d400c3b9e1b6316a348a11c8e471e54b35199e8953a46f81e"
+
+[[files]]
+file = "config/bluemap/core.conf"
+hash = "90fc1a58b5950fc0dfaada493771949966311f2a2e749386fe2d1f6c6fdc3ace"
+
+[[files]]
+file = "config/bluemap/maps/world.conf"
+hash = "4f3ceef4c25ab8515926982c39222acd93569fbf94341ec00456be930556c674"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "f4f9fc6a3ec27abe824b1aef445183f4c988c212724fb850c17ab489353c7b51"
+
+[[files]]
+file = "config/bluemap/storages/file.conf"
+hash = "ce1f7419cb657755fcb3266817251951701119b95c8e34fb8fa0a1f6be8c7b17"
+
+[[files]]
+file = "config/bluemap/storages/sql.conf"
+hash = "dbf122b4932a67e8b602ebe24d3278616522c24d2e9481f6c31c9949e75ed9f6"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "eb7fbbf671c247286fd9d3c52a43142da7e65dfb53c08163e0742b2979f3ca24"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
 metafile = true
