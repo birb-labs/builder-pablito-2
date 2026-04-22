@@ -689,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/fog.pw.toml"
-hash = "ce8b4c6596fac67fd0d8ba6193a4a868699d9447c7eefb5a830ec23d211a04e6"
+hash = "7b1e77662b370df410c10cc7d087f1531d41cd0e648fbe0ae93f4b4261f51243"
 metafile = true
 
 [[files]]
@@ -739,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowing-eyes.pw.toml"
-hash = "f6d80ba37d12ea4bf1145bc3165618bdb28f19c3b18af6f4382860e0558c789e"
+hash = "fa770fa19c94180df87c4cf896ce3dac5705e43abaa0882b52ba5c22fa6a6511"
 metafile = true
 
 [[files]]
@@ -1369,7 +1369,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "8399bfe4362af69d137613e1f35e90c8cbe6e5b4fba8b598beb319db1649d8ce"
+hash = "ddcf8b730cc0aa672c254d72cd1e40e76a832bde58c92b3a30ac1109d35c6bfc"
 metafile = true
 
 [[files]]

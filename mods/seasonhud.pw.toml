@@ -1,13 +1,12 @@
 name = "SeasonHud"
+side = "client"
 filename = "seasonhud-neoforge-1.21.1-2.0.4.jar"
-side = "both"
 
-[download]
-url = "https://cdn.modrinth.com/data/VNjUn3NA/versions/Qja976fJ/seasonhud-neoforge-1.21.1-2.0.4.jar"
-hash-format = "sha512"
-hash = "455f7e57de599c60eb92c990b5dd9710e3e07ad82f57a7497886f9d709f57dae180fecb475b831d0cb8a846da80811eb3bb4c3c1d8f24df6b7bfceb1f8cc5cb9"
-
-[update]
 [update.modrinth]
 mod-id = "VNjUn3NA"
 version = "Qja976fJ"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/VNjUn3NA/versions/Qja976fJ/seasonhud-neoforge-1.21.1-2.0.4.jar"
+hash = "455f7e57de599c60eb92c990b5dd9710e3e07ad82f57a7497886f9d709f57dae180fecb475b831d0cb8a846da80811eb3bb4c3c1d8f24df6b7bfceb1f8cc5cb9"
