@@ -738,11 +738,6 @@ hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
 
 [[files]]
-file = "mods/glowing-eyes.pw.toml"
-hash = "4547c8747e2e42b98f22201d7e9aeeaa5b2d54358b1df8e5d028779554e8fcb5"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
