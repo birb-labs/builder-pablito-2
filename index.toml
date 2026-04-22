@@ -836,6 +836,11 @@ hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
 
 [[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "f565820169e3cd71f18fd0b18eab2405bc400668813d04f3f3eb75b6c8924bcc"
+metafile = true
+
+[[files]]
 file = "mods/kaleidoscope-cookery.pw.toml"
 hash = "82e5aead163e41fac502cdbdc6a2e60007471ffa1be2662cb3b846669cb62c14"
 metafile = true
@@ -863,6 +868,11 @@ metafile = true
 [[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "fb8b608ce6e5a9c37520fe042ca37c03782f8a46e1d70d54e805c544f84fafd1"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
 
 [[files]]
@@ -1466,6 +1476,11 @@ hash = "1d277d4c4d8f3abc49176d3b029584b70d92dcb9b89cf2cf6094e674fe9885c8"
 metafile = true
 
 [[files]]
+file = "mods/superflat-world-no-slimes.pw.toml"
+hash = "e86ed5ff343c6a72f9c12086270eefe1fe08d0e859b010fc6120aebfd5d7a672"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
@@ -1563,6 +1578,11 @@ metafile = true
 [[files]]
 file = "mods/wooled-boots.pw.toml"
 hash = "612b69d5e8238a88654d08458b9f0543e6a052000c40cf6184afde883f6ac6f3"
+metafile = true
+
+[[files]]
+file = "mods/xaero-zoomout.pw.toml"
+hash = "89e8aa3851da2a224d65258ff1fb63210095c38ceb28cbd524af195f01cdfac7"
 metafile = true
 
 [[files]]
